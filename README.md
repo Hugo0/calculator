@@ -1,5 +1,5 @@
 ### Calculator
-Big libraries are better. Here you have two million lines of beautiful, totally hand-written code that covers all (\*most) of your addition needs. Extensively tested code too! And open source!
+Big libraries are better. Here you have _TWO MILLION_ lines of beautiful, totally hand-written python code that covers all (\*most) of your addition needs. Extensively tested code too! And open source! What else could you want?!?
 
 Who needs numpy when you have calculator.py?
 
